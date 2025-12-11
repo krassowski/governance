@@ -10,6 +10,7 @@ The following Jupyter Subprojects have their own formal Subproject Council that 
 - [Jupyter Frontends](https://github.com/jupyterlab/frontends-team-compass)
   - [JupyterLab](https://github.com/jupyterlab/jupyterlab)
   - [Jupyter Notebook](https://github.com/jupyter/notebook)
+  - [JupyterLite](https://github.com/jupyterlite/jupyterlite)
 - [JupyterHub and Binder](https://github.com/jupyterhub/team-compass)
   - [JupyterHub](https://github.com/jupyterhub/jupyterhub)
   - [Binder](https://github.com/jupyterhub/binder)
