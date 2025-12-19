@@ -1,6 +1,11 @@
 # Software Steering Council
 
-The current members of the Software Steering Council are listed in the [Leadership Directory](people).
+The current members of the Software Steering Council are:
+
+```{team-members} software_steering_council
+```
+
+For a complete directory, see the [Leadership Directory](people.md).
 
 ## Purpose
 
@@ -63,4 +68,4 @@ Times for SSC meetings is defined [on the Jupyter Community Calendar](https://ju
 
 ### E-mail list
 
-You can e-mail the Software Steering Council [at this Google Groups address](jupyter-software-steering-council@googlegroups.com).
+You can e-mail the Software Steering Council [at this Google Groups address](mailto:jupyter-software-steering-council@googlegroups.com).
